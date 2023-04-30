@@ -1,4 +1,4 @@
-#  NYUAD-2023-FeeQra
+#  FeeQra / فكرة / Team 1 - NYUAD
 
   
 
