@@ -16,4 +16,6 @@ The image below shows the workflow of the system.
 
 The [Feature predictor](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QRNN.ipynb) predicts the future data and the [Quantum transformer](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QuantumSentenceTransformer.py) classifies the data based on the data forecasted by the feature predictor.
 
-
+References used for the projects : 
+> [Transfer learning in hybrid classical-quantum neural networks](https://arxiv.org/abs/1912.08278)
+> 
