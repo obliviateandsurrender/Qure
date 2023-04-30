@@ -16,5 +16,5 @@ The image below shows the workflow of the system.
 
 The [Feature predictor](https://link-url-here.org](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QRNN.ipynb) predicts the future data and the [quantum transformer](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QuantumSentenceTransformer.py) classifies the data based on the data forecasted by the feature predictor.
 
-[Feature predictor]('https://pages.github.com/](https://link-url-here.org](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QRNN.ipynb').
+[Feature predictor]('https://google.com).
 
