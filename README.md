@@ -11,6 +11,5 @@ There are two major components in this project :
 * Feature Predictor 
 * Anomaly Detector 
 
-```
 ![alt text](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/workflow.png)
-```
+
