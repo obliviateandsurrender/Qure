@@ -2,7 +2,7 @@
 
   
 
-This project implements Quantum Transformer model to forecast time series data coming from health sector and implements quantum transformer to classify the time series data as malignant or benign.
+This project implements Quantum Transformer model to forecast time series data coming from health sector and implements quantum anamoly detector to classify the time series data as malignant or benign. We compare our results to the classical deep learning counterparts.
 
  
 There are two major components in this project :
