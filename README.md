@@ -18,4 +18,5 @@ The [Feature predictor](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQ
 
 References used for the projects : 
 > [Transfer learning in hybrid classical-quantum neural networks](https://arxiv.org/abs/1912.08278)
+
 > [Quantum variational rewinding for time series anomaly detection](https://arxiv.org/pdf/2210.16438.pdf)
