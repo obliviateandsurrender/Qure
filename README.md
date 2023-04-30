@@ -14,7 +14,6 @@ The image below shows the workflow of the system.
 
 ![alt text](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/workflow.png)
 
-The [Feature predictor](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QRNN.ipynb) predicts the future data and the [quantum transformer](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QuantumSentenceTransformer.py) classifies the data based on the data forecasted by the feature predictor.
+The [Feature predictor](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QRNN.ipynb) predicts the future data and the [Quantum transformer](https://github.com/obliviateandsurrender/NYUAD-2023-FeeQra/blob/main/QuantumSentenceTransformer.py) classifies the data based on the data forecasted by the feature predictor.
 
-[Feature predictor](https://google.com).
 
