@@ -1,8 +1,7 @@
-#  FeeQra / فكرة / Team 1 - NYUAD
+#  Qure by FeeQra / فكرة (Team 1 - NYUAD)
 
-  
 
-This project implements Quantum Transformer model to forecast time series data coming from health sector and implements quantum anamoly detector to classify the time series data as malignant or benign. We compare our results to the classical deep learning counterparts.
+Qure implements a quantum transformer model to forecast time series data such as ECG or EEG and implements a quantum anamoly detector to classify the time series data as normal or anomalous. We compare our results to the classical deep learning counterparts.
 
  
 There are two major components in this project :
